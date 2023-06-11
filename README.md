@@ -1,17 +1,14 @@
 <h1 align="center">Hi there, I'm Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a beginner java developer</h3>
 
-<h1 align="center">
-<img class="marginauto" src="https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Resize-oJ6yDvpQjkY.png" alt="I am a beginner java developer">
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+beginner+java+developer)](https://git.io/typing-svg)
 
 I am learning to create projects on Spring Boot, work with microservice architecture in Docker containers. I create small projects for this, the last project is the creation of a telegram bot.
 
 Skills: JAVA / SPRING / SPRING BOOT / POSTGRESQL / SPRING DATA JPA / DOCKER
 
 - 🔭 I’m currently working on On the development of a telegram bot on Spring Boot using microservice architecture 
-- 🌱 I’m currently learning Docker и Kubernetes 
+- 🌱 I’m currently learning Docker, Nginx and Kubernetes 
 - 📫 How to reach me: email: mak.dragun2012@yandex.ru 
 
 
