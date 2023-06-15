@@ -9,7 +9,7 @@ Skills: JAVA / SPRING / SPRING BOOT / POSTGRESQL / SPRING DATA JPA / DOCKER
 
 - 🔭 I’m currently working on On the development of a telegram bot on Spring Boot using microservice architecture 
 - 🌱 I’m currently learning Docker, Nginx and Kubernetes 
-- 📫 How to reach me: email: mak.dragun2012@yandex.ru 
+- 📫 How to reach me: mak.dragun2012@yandex.ru 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaximDragun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/maxim179800)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/maxim179800/)  
